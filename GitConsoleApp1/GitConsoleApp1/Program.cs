@@ -12,6 +12,7 @@ namespace GitConsoleApp1
         {
             //code wass added in github
             //code was edited in VS
+            //added feature1
         }
     }
 }
