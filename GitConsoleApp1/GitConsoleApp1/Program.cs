@@ -11,6 +11,7 @@ namespace GitConsoleApp1
         static void Main(string[] args)
         {
             //code wass added in github
+            //code was edited in VS
         }
     }
 }
